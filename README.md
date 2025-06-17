@@ -1,5 +1,10 @@
 # github-final-project
 
 
- Nida’s front-end development skills are matched by her professionalism and commitment. She turns rough concepts into elegant user interfaces, always keeping performance and accessibility in mind.
-  <span>&#8221;</span>
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
